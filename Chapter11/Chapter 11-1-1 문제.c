@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
-// Chapter 11-1
+// Chapter 11-1-1
 int main(void) {
 
 	int arr[5];
@@ -67,7 +67,7 @@ int main(void) {
 }
 
 
-// Chpater 11-1 답안
+// Chpater 11-1-1 답안
 
 int main(void) {
 
